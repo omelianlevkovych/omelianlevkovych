@@ -1,4 +1,5 @@
 <img align="left" src="https://github.com/omelianlevkovych/omelianlevkovych/blob/main/assets/raven.jpg">
+<img align="left" src="https://github.com/omelianlevkovych/omelianlevkovych/blob/main/assets/git-cthulhu.gif" width='200">
 
 ### Hi there 👋
 - I am a Software Development Engineer at <a href="www.adorama.com">Adorama</a>.
