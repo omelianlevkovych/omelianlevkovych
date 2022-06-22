@@ -6,7 +6,7 @@
 - Lovecraft fanboy.
 <img align="right" src="https://github.com/omelianlevkovych/omelianlevkovych/blob/main/assets/git-cthulhu.gif" width='100'>
 
-<hr>
+
 <p align="center">
   <a href="https://github.com/omelianlevkovych">
     <img alt="GitHub" title="GitHub" height="46" width="46" src="assets/github.svg">
