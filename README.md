@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/omelianlevkovych/omelianlevkovych/blob/main/assets/git-cthulhu.gif" width='200'>  
+<img align="left" src="https://github.com/omelianlevkovych/omelianlevkovych/blob/main/assets/git-cthulhu.gif" width='120'>  
 
 ### Hi there 👋 
 - I am a Software Development Engineer at <a href="https://www.adorama.com/">Adorama</a>.
