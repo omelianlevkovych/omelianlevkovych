@@ -1,7 +1,7 @@
 <img align="left" src="https://github.com/omelianlevkovych/omelianlevkovych/blob/main/assets/raven.jpg">
 
 ### Hi there 👋
-
+Thats the place where I take a break.
 <!--
 **omelianlevkovych/omelianlevkovych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
