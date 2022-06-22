@@ -1,10 +1,11 @@
 <img align="left" src="https://github.com/omelianlevkovych/omelianlevkovych/blob/main/assets/raven.jpg">
-<img align="left" src="https://github.com/omelianlevkovych/omelianlevkovych/blob/main/assets/git-cthulhu.gif" width='200'>
 
 ### Hi there 👋
 - I am a Software Development Engineer at <a href="www.adorama.com">Adorama</a>.
 - Passionate about cloud computing, distributed systems, and events-driven architecture.
 - Lovecraft fanboy.
+
+<img align="left" src="https://github.com/omelianlevkovych/omelianlevkovych/blob/main/assets/git-cthulhu.gif" width='200'>
 
 I'm currently working with .NET microservices ecosystem.
 <!--
