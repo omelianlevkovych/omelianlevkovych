@@ -15,7 +15,7 @@
     <img alt="LinkedIn" title="LinkedIn" height="46" width="46" src="assets/linkedin.svg">
   </a>
   <a href="https://www.goodreads.com/user/show/78090053-omelian-levkovych">
-    <img alt="goodreads" title="goodreads" height="46" width="46" src="assets/goodreads.svg">
+    <img alt="goodreads" title="goodreads" height="46" width="46" src="assets/goodreads2.svg">
   </a>
 </p>
 <hr>
