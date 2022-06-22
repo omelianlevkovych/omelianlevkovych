@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://github.com/omelianlevkovych">
-    <img alt="GitHub" title="GitHub" height="46" width="46" src="assets/github.svg">
+    <img alt="GitHub" title="GitHub" height="30" width="30" src="assets/github.svg">
   </a>
   <a href="https://www.linkedin.com/in/omelianl">
-    <img alt="LinkedIn" title="LinkedIn" height="46" width="46" src="assets/linkedin.svg">
+    <img alt="LinkedIn" title="LinkedIn" height="30" width="30" src="assets/linkedin.svg">
   </a>
   <a href="https://www.goodreads.com/user/show/78090053-omelian-levkovych">
-    <img alt="goodreads" title="goodreads" height="46" width="46" src="assets/goodreads4.svg">
+    <img alt="goodreads" title="goodreads" height="30" width="30" src="assets/goodreads4.svg">
   </a>
 </p>
 
