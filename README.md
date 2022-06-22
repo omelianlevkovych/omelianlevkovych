@@ -5,7 +5,7 @@
 - Passionate about cloud computing, distributed systems, and events-driven architecture.
 - Lovecraft fanboy.
 
-<img align="left" src="https://github.com/omelianlevkovych/omelianlevkovych/blob/main/assets/git-cthulhu.gif" width='200'>
+<img align="right" src="https://github.com/omelianlevkovych/omelianlevkovych/blob/main/assets/git-cthulhu.gif" width='200'>
 
 I'm currently working with .NET microservices ecosystem.
 <!--
