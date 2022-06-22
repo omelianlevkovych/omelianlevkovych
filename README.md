@@ -1,12 +1,13 @@
 <img align="left" src="https://github.com/omelianlevkovych/omelianlevkovych/blob/main/assets/raven.jpg">
 
  ### Hi there 👋
+ <img align="right" src="https://github.com/omelianlevkovych/omelianlevkovych/blob/main/assets/git-cthulhu.gif" width='130'>  
+ 
 - I am a Software Development Engineer at <a href="www.adorama.com">Adorama</a>.
 - Passionate about cloud computing, distributed systems, and events-driven architecture.
 - Lovecraft fanboy.
-<img align="right" src="https://github.com/omelianlevkovych/omelianlevkovych/blob/main/assets/git-cthulhu.gif" width='200'>
+<hr>  
 
-<hr>
 <p align="center">
   <a href="https://github.com/omelianlevkovych">
     <img alt="GitHub" title="GitHub" height="46" width="46" src="assets/github.svg">
@@ -15,10 +16,11 @@
     <img alt="LinkedIn" title="LinkedIn" height="46" width="46" src="assets/linkedin.svg">
   </a>
   <a href="https://www.goodreads.com/user/show/78090053-omelian-levkovych">
-    <img alt="goodreads" title="goodreads" height="46" width="46" src="assets/goodreads.svg">
+    <img alt="goodreads" title="goodreads" height="46" width="46" src="assets/goodreads3.svg">
   </a>
 </p>
-<hr>
+
+
 <!--
 **omelianlevkovych/omelianlevkovych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
