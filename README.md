@@ -4,7 +4,7 @@
 - I am a Software Development Engineer at <a href="www.adorama.com">Adorama</a>.
 - Passionate about cloud computing, distributed systems, and events-driven architecture.
 - Lovecraft fanboy.
-<img align="right" src="https://github.com/omelianlevkovych/omelianlevkovych/blob/main/assets/git-cthulhu.gif" width='200'>
+<img align="right" src="https://github.com/omelianlevkovych/omelianlevkovych/blob/main/assets/git-cthulhu.gif" width='100'>
 
 <hr>
 <p align="center">
