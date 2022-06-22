@@ -18,7 +18,8 @@
     <img alt="goodreads" title="goodreads" height="46" width="46" src="assets/goodreads.svg">
   </a>
 </p>
-<hr>
+
+
 <!--
 **omelianlevkovych/omelianlevkovych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
