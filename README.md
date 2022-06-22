@@ -5,6 +5,8 @@
 - Passionate about cloud computing, distributed systems, and events-driven architecture.
 - Lovecraft fanboy.
 
+<img align="right" src="https://github.com/omelianlevkovych/omelianlevkovych/blob/main/assets/git-cthulhu.gif" width='200'>
+
 I'm currently working with .NET microservices ecosystem.
 <!--
 **omelianlevkovych/omelianlevkovych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
