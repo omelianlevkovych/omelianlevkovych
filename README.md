@@ -1,3 +1,5 @@
+<img align="left" src="https://github.com/omelianlevkovych/omelianlevkovych/blob/main/assets/raven.jpg">
+
 ### Hi there 👋
 
 <!--
