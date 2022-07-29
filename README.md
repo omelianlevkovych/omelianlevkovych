@@ -16,6 +16,9 @@
   <a href="https://www.goodreads.com/user/show/78090053-omelian-levkovych">
     <img alt="Goodreads" title="Goodreads" height="30" width="30" src="assets/goodreads4.svg">
   </a>
+  <a href="https://twitter.com/OmelianL">
+    <img alt="Twitter" title="Twitter" height="30" width="30" src="assets/twitter.svg">
+  </a>
 </p>
 
 
