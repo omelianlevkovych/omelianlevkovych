@@ -2,6 +2,7 @@
 
 
 ### Hi there 👋
+- russia is a terrorist state :yellow_square::blue_square:
 - I am a Software Development Engineer at <a href="https://www.adorama.com/">Adorama</a>.
 - Passionate about cloud computing, distributed systems, and events-driven architecture.
 - Lovecraft lover :notebook:.
