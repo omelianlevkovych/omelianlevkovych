@@ -18,6 +18,9 @@
   <a href="https://twitter.com/OmelianL">
     <img alt="Twitter" title="Twitter" height="30" width="30" src="assets/twitter.svg">
   </a>
+  <a href="https://leetcode.com/omelianlevkovych">
+    <img alt="Leetcode" title="Leetcode" height="30" width="30" src="assets/leetcode.svg">
+  </a>
 </p>
 
 
