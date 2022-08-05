@@ -4,7 +4,6 @@
 ### Hi there 👋
 - russia is a terrorist state :yellow_square::blue_square:
 - I am a Software Development Engineer at <a href="https://www.adorama.com/">Adorama</a>.
-- Passionate about distributed systems, and FP.
 
 <p align="center">
   <a href="https://github.com/omelianlevkovych">
