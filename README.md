@@ -1,8 +1,7 @@
 <img align="right" src="https://github.com/omelianlevkovych/omelianlevkovych/blob/main/assets/git-cthulhu.gif" width='150'>  
 
 
-### Hi there 👋
-- russia is a terrorist state :yellow_square::blue_square:
+### Hi there 👋 russia is a terrorist state :yellow_square::blue_square:
 
 <p align="center">
   <a href="https://github.com/omelianlevkovych">
@@ -21,6 +20,9 @@
     <img alt="Leetcode" title="Leetcode" height="30" width="30" src="assets/leetcode.svg">
   </a>
 </p>
+
+![github-contribution-snake](https://user-images.githubusercontent.com/22483733/224513258-8fffb993-40f9-4dee-842e-11e69a3a58b5.svg)
+
 
 
 <!--
