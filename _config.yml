@@ -1,0 +1,41 @@
+title: My Musings
+description: Personal notes on tech & life
+email: me@example.com
+url: "https://omelianlevkovych.github.io"
+remote_theme: mmistakes/minimal-mistakes@4.27.1
+plugins: [jekyll-feed, jekyll-include-cache]
+sass:
+  style: compressed
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+
+# Minimal Mistakes theme settings
+minimal_mistakes_skin: "default"
+search: true
+
+# Site Author
+author:
+  name: "Your Name"
+  avatar: "/assets/images/avatar.jpg"
+  bio: "Personal notes on tech & life"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:me@example.com"
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true 
