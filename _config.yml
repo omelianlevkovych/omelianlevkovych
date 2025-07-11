@@ -2,40 +2,86 @@ title: My Musings
 description: Personal notes on tech & life
 email: me@example.com
 url: "https://omelianlevkovych.github.io"
-remote_theme: mmistakes/minimal-mistakes@4.27.1
-plugins: [jekyll-feed, jekyll-include-cache]
-sass:
-  style: compressed
+baseurl: ""
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
 permalink: /:year/:month/:day/:title/
 
-# Minimal Mistakes theme settings
-minimal_mistakes_skin: "default"
-search: true
+# Kramdown settings for enhanced markdown support
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    default_lang: html
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false
+  auto_ids: true
+  hard_wrap: false
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Sass settings
+sass:
+  style: compressed
+  sass_dir: _sass
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
 
 # Site Author
 author:
   name: "Your Name"
-  avatar: "/assets/images/avatar.jpg"
   bio: "Personal notes on tech & life"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:me@example.com"
+  email: "me@example.com"
+  github: "yourusername"
+  twitter: "yourusername"
+
+# Navigation
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "About"
+    url: "/about/"
 
 # Defaults
 defaults:
-  # _posts
   - scope:
       path: ""
-      type: posts
+      type: "posts"
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true 
+      layout: "post"
+      comments: false
+      share: false
+  - scope:
+      path: ""
+    values:
+      layout: "default" 

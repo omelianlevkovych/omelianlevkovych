@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<div class="home">
+    {% if page.title %}
+        <h1 class="page-title">{{ page.title }}</h1>
+    {% endif %}
+
+    {% if content and content != "" %}
+        <div class="home-content">
+            {{ content }}
+        </div>
+    {% endif %}
+
+    {% if site.posts.size > 0 %}
+        <div class="posts-list">
+            {% for post in site.posts %}
+                <article class="post-preview">
+                    <header class="post-preview-header">
+                        <h2 class="post-preview-title">
+                            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                        </h2>
+                        <div class="post-preview-meta">
+                            <time datetime="{{ post.date | date_to_xmlschema }}" class="post-preview-date">
+                                {{ post.date | date: "%B %d, %Y" }}
+                            </time>
+                        </div>
+                    </header>
+                    
+                    {% if post.excerpt %}
+                        <div class="post-preview-excerpt">
+                            {{ post.excerpt | strip_html | truncate: 200 }}
+                            <a href="{{ post.url | relative_url }}" class="read-more">Read more</a>
+                        </div>
+                    {% endif %}
+                </article>
+            {% endfor %}
+        </div>
+    {% else %}
+        <div class="empty-state">
+            <p>No posts yet. Start writing!</p>
+        </div>
+    {% endif %}
+</div> 

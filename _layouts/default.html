@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    
+    <!-- SEO and Social Meta Tags -->
+    {% seo %}
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
+    
+    <!-- RSS Feed -->
+    {% feed_meta %}
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="site-header">
+            <div class="site-header-inner">
+                <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
+                <nav class="site-nav">
+                    {% for nav_item in site.navigation %}
+                        <a href="{{ nav_item.url | relative_url }}" 
+                           class="nav-link {% if page.url == nav_item.url %}active{% endif %}">
+                            {{ nav_item.title }}
+                        </a>
+                    {% endfor %}
+                </nav>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            {{ content }}
+        </main>
+
+        <!-- Footer -->
+        <footer class="site-footer">
+            <div class="footer-content">
+                <div class="footer-links">
+                    {% if site.author.email %}
+                        <a href="mailto:{{ site.author.email }}" class="footer-link">Email</a>
+                    {% endif %}
+                    {% if site.author.github %}
+                        <a href="https://github.com/{{ site.author.github }}" class="footer-link">GitHub</a>
+                    {% endif %}
+                    {% if site.author.twitter %}
+                        <a href="https://twitter.com/{{ site.author.twitter }}" class="footer-link">Twitter</a>
+                    {% endif %}
+                    <a href="{{ '/feed.xml' | relative_url }}" class="footer-link">RSS</a>
+                </div>
+                <div class="footer-info">
+                    <p>&copy; {{ 'now' | date: '%Y' }} {{ site.author.name }}. All rights reserved.</p>
+                </div>
+            </div>
+        </footer>
+    </div>
+</body>
+</html> 
