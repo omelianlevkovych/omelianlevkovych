@@ -2,7 +2,7 @@ title: My Musings
 description: Personal notes on tech & life
 email: me@example.com
 url: "https://omelianlevkovych.github.io"
-baseurl: ""
+baseurl: "/omelianlevkovych"
 
 # Build settings
 markdown: kramdown
